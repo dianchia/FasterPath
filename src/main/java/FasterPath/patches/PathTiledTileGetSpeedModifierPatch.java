@@ -11,16 +11,10 @@ import net.bytebuddy.asm.Advice;
 
 @ModMethodPatch(target = PathTiledTile.class, name = "getSpeedModifier", arguments = {Mob.class})
 public class PathTiledTileGetSpeedModifierPatch {
-//    @Advice.OnMethodEnter(skipOn = Advice.OnNonDefaultValue.class)
-//    static boolean onEnter() {
-//        return true;
-//    }
-
     @Advice.OnMethodExit
     static void onExit(@Advice.Argument(0)Mob mob, @Advice.Return(readOnly = false) ModifierValue<Float> modifierValue) {
         modifierValue = mob.isFlying()
                 ? new ModifierValue<>(BuffModifiers.SPEED, 0.0F)
                 : new ModifierValue<Float>(BuffModifiers.SPEED, modifierValue.value + FasterPath.config.getSpeedModifier());
-//        modifierValue = mob.isFlying() ? new ModifierValue<>(BuffModifiers.SPEED, 0.0F) : new ModifierValue<>(BuffModifiers.SPEED, 2.0F);
     }
 }
