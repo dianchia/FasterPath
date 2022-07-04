@@ -7,11 +7,20 @@ A folder should appear in the game's local folder,
 which you can find by right-clicking Necesse in your Steam library &rarr; Manage &rarr; Browse local files.
 In `settings/fasterPath/settings.cfg`, modify the `speedModifier=1.0` to whatever value you like!
 
-
 The value adds to the original value in the vanilla game, which is `0.1`.
 So a `speedModifier` of `1` means now path gives a speed boost of `1.1`.
 I suggest to have the value between `1.0 to 2.0` for a better experience.
 But who says you can't have fun by changing it to 10!
 
 ## Important Notes:
+
 - Game have to be restarted for the changes to be made
+
+# Collection
+
+Below are a few mod I had written:
+
+- [Increased Stack Size](https://steamcommunity.com/sharedfiles/filedetails/?id=2827931647)
+- [Faster Path](https://steamcommunity.com/sharedfiles/filedetails/?id=2829083798)
+- [Hide Settlers Armor](https://steamcommunity.com/sharedfiles/filedetails/?id=2829306935&searchtext=)
+- [Vanilla Path +](https://steamcommunity.com/sharedfiles/filedetails/?id=2829993329)
