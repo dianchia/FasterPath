@@ -1,3 +1,8 @@
+# Mod Information
+Mod version: 1.0.1
+
+Game version: 0.21.23
+
 # Faster Path
 
 A mod for Necesse that makes walking on path tiles a lot faster!
@@ -16,11 +21,14 @@ But who says you can't have fun by changing it to 10!
 
 - Game have to be restarted for the changes to be made
 
-# Collection
+## GitHub
+Bugs can be reported to [here](https://github.com/dianchia/FasterPath/issues)
 
-Below are a few mod I had written:
 
-- [Increased Stack Size](https://steamcommunity.com/sharedfiles/filedetails/?id=2827931647)
-- [Faster Path](https://steamcommunity.com/sharedfiles/filedetails/?id=2829083798)
-- [Hide Settlers Armor](https://steamcommunity.com/sharedfiles/filedetails/?id=2829306935&searchtext=)
-- [Vanilla Path +](https://steamcommunity.com/sharedfiles/filedetails/?id=2829993329)
+## Collection
+Below are a few mod written by me
+- [Increased Stack Size](https://github.com/dianchia/IncreasedStackSize)
+- [Hide Settlers Armor](https://github.com/dianchia/HideSettlersArmor)
+- [Faster Path](https://github.com/dianchia/FasterPath)
+- [Vanilla Path +](https://github.com/dianchia/VanillaPathPlus)
+- [Defense Tower](https://github.com/dianchia/DefenseTower)
