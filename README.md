@@ -1,7 +1,8 @@
 # Mod Information
-Mod version: 1.0.1
 
-Game version: 0.21.23
+Mod version: 1.0.2
+
+Game version: 0.21.24
 
 # Faster Path
 
@@ -22,14 +23,9 @@ But who says you can't have fun by changing it to 10!
 - Game have to be restarted for the changes to be made
 
 ## GitHub
+
 Bugs can be reported to [here](https://github.com/dianchia/FasterPath/issues)
 
-
 ## Collection
-Below are a few mod written by me
-- [Defense Tower](https://github.com/dianchia/DefenseTower)
-- [Faster Path](https://github.com/dianchia/FasterPath)
-- [Hide Settlers Armor](https://github.com/dianchia/HideSettlersArmor)
-- [Increased Stack Size](https://github.com/dianchia/IncreasedStackSize)
-- [Vanilla Path +](https://github.com/dianchia/VanillaPathPlus)
 
+[Here](https://github.com/dianchia/Necesse-Mods/blob/main/README.md) are a few mods I wrote
