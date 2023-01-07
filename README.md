@@ -1,8 +1,8 @@
 # Mod Information
 
-Mod version: 1.0.3
+Mod version: 1.0.4
 
-Game version: 0.21.25
+Game version: 0.21.27
 
 # Faster Path
 
